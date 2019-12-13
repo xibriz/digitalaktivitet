@@ -1,8 +1,8 @@
-- name: Home
+- name: Hjem
   link: /
-- name: About
+- name: Demo
+  link: /demo.html
+- name: Pris
+  link: /price.html
+- name: Om oss
   link: /about.html
-- name: Blog
-  link: /blog.html
-- name: Staff
-  link: /staff.html

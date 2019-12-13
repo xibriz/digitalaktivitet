@@ -1,7 +1,6 @@
 ---
-layout: default
-title: About
+title: Om oss
 ---
-# About page
+# Om oss
 
-This page tells you a little bit about me.
+Her kommer det info om oss.
