@@ -3,4 +3,12 @@ title: Pris
 ---
 # Pris
 
-Her kommer det info om pris og det gode introtilbudet.
+Vi ønsker å gjøre terskelen så lav som mulig for alle klubber i Norge, uansett størrelse.
+
+Prismodellen er derfor veldig enkel: 2 kr per aktive medlem per måned.
+
+Dersom klubben din har 70 aktive medlemmer betaler dere kun 140 kr.
+
+Vi er så sikre på produktet at første kvartal av 2020 vil være gratis!
+
+Fakturering vil skje første uke i hvert kvartal for innværende kvartal.
