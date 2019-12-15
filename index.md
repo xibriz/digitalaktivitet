@@ -3,8 +3,7 @@ title: Hjem
 ---
 # Hjem
 
-H1 DigitalAktivitet H1
-
+# DigitalAktivitet #
 Har du noen gang tenkt over hvordan du vil registrere _din aktivitet_ ? 
 
 DigitalAktivitet er et aktivitets register for skyttere i Norge. I tillegg har systemet en mengder med tillegsfunksjoner som booking av skytetid på baner, administrasjon av skyteledere, stevne registrering, integrasjon med kortsystemer  og mye mye mer.
@@ -17,8 +16,8 @@ Vi håndtere alle data på en sikker og trygg måte. Vi tar backup hver natt sli
 Ta kontakt med oss for en demo om det er ønskelig !
 
 
-H1
+#
 Møt oss på skyttermessen 2020!
-H1
+#
 
 Vi stiller på Skyttermessen 2020, her vil vi kjøre demoer og det vil være mulighet til å prøve ut de forskjellige touch skjermene vi bruker som "Fellesskjermer" på f.eks skytebanen.
