@@ -16,8 +16,6 @@ Vi håndtere alle data på en sikker og trygg måte. Vi tar backup hver natt sli
 Ta kontakt med oss for en demo om det er ønskelig !
 
 
-#
-Møt oss på skyttermessen 2020!
-#
+## Møt oss på skyttermessen 2020! ##
 
 Vi stiller på Skyttermessen 2020, her vil vi kjøre demoer og det vil være mulighet til å prøve ut de forskjellige touch skjermene vi bruker som "Fellesskjermer" på f.eks skytebanen.
