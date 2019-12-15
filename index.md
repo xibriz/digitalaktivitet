@@ -1,7 +1,6 @@
 ---
 title: Hjem
 ---
-# Hjem
 
 # DigitalAktivitet #
 Har du noen gang tenkt over hvordan du vil registrere _din aktivitet_ ? 
