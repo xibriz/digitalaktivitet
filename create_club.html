@@ -2,3 +2,120 @@
 title: Opprett klubb
 ---
 <h1>Opprett din klubb i dag!</h1>
+<p>
+    Alle som melder seg opp nå vil få gratis prøveperiode første kvartal 2020!<br/>
+    Deretter blir prisen 2 kr per aktive medlem per kvartal.<br/>
+    Det er ingen bindingstid og dere kan når som helst melde dere ut av systemet. Avslutter dere før 1. april 2020 betaler dere ingen ting!
+</p>
+<form id="createClubForm">
+    <div class="form-group mb-1 row">
+        <label for="org_number" class="col-sm-2 col-form-label">Organisasjonsnummer</label>
+        <div class="col-sm-10 col-md-4">
+        <input type="text" name="org_number" class="form-control" id="org_number">
+        </div>
+    </div>
+    <div class="form-group mb-1 row">
+        <label for="club_name" class="col-sm-2 col-form-label">Klubbnavn</label>
+        <div class="col-sm-10 col-md-4">
+        <input type="text" name="club_name" class="form-control" id="club_name">
+        </div>
+    </div>
+    <div class="form-group mb-1 row">
+        <label for="domain" class="col-sm-2 col-form-label">Nettadresse</label>
+        <div class="col-sm-10 col-md-4">
+            <div class="input-group mb-3">
+                <input type="text" name="domain" class="form-control" id="domain">
+                <div class="input-group-append">
+                  <span class="input-group-text" id="addonDomain">.digitalaktivitet.no</span>
+                </div>
+            </div>
+            <small id="passwordHelpBlock" class="form-text text-muted">
+                Ønsket nettadresse. Hvis du skriver "demo" blir adressen demo.digitalaktivitet.no
+            </small>
+        </div>
+    </div>
+    <h4>Kontaktperson</h4>
+    <div class="form-group mb-1 row">
+        <label for="admin_firstname" class="col-sm-2 col-form-label">Fornavn</label>
+        <div class="col-sm-10 col-md-4">
+        <input type="text" name="admin_firstname" class="form-control" id="admin_firstname">
+        </div>
+    </div>
+    <div class="form-group mb-1 row">
+        <label for="admin_lastname" class="col-sm-2 col-form-label">Etternavn</label>
+        <div class="col-sm-10 col-md-4">
+        <input type="text" name="admin_lastname" class="form-control" id="admin_lastname">
+        </div>
+    </div>
+    <div class="form-group mb-1 row">
+        <label for="admin_email" class="col-sm-2 col-form-label">E-post</label>
+        <div class="col-sm-10 col-md-4">
+        <input type="text" name="admin_email" class="form-control" id="admin_email">
+        </div>
+    </div>
+    <div class="form-group mb-1 row">
+        <label for="admin_phone" class="col-sm-2 col-form-label">Mobilnummer</label>
+        <div class="col-sm-10 col-md-4">
+        <input type="text" name="admin_phone" class="form-control" id="admin_phone">
+        </div>
+    </div>
+    <h4>Fakturaadresse</h4>
+    <div class="form-group mb-1 row">
+        <label for="address" class="col-sm-2 col-form-label">Adresse</label>
+        <div class="col-sm-10 col-md-4">
+        <input type="text" name="address" class="form-control" id="address">
+        </div>
+    </div>
+    <div class="form-group mb-1 row">
+        <label for="post_number" class="col-sm-2 col-form-label">Postnummer</label>
+        <div class="col-sm-10 col-md-4">
+        <input type="text" name="post_number" class="form-control" id="post_number">
+        </div>
+    </div>
+    <div class="form-group mb-1 row">
+        <label for="post_address" class="col-sm-2 col-form-label">Poststed</label>
+        <div class="col-sm-10 col-md-4">
+        <input type="text" name="post_address" class="form-control" id="post_address">
+        </div>
+    </div>
+    <div class="form-group mb-1 row">
+        <div class="offset-2 col-sm-10 col-md-4">
+            <span id="success" class="text-success"></span>
+            <span id="error" class="text-danger"></span>
+            <button type="button" onclick="create_club();" style="float: right;" class="btn btn-primary">Kom igang nå!</button>
+        </div>
+    </div>
+</form>
+<hr/>
+<script type="text/javascript">
+function create_club() {
+    $(".form-control").removeClass("is-invalid");
+    $("#error").html("");
+    $("#success").html("");
+    $.ajax({
+        type: "POST",
+        url: "https://admin.digitalaktivitet.no/api/v1/customers",
+        data: $("#createClubForm").serialize(),
+        success: function(data, textStatus, jqXHR) {
+            console.log(data);
+            console.log(textStatus);
+            console.log(jqXHR);
+            $("#success").html("Vi har sendt deg en e-post med instrukser for å fullføre oppsettet.");
+        },
+        error: function(jqXHR, textStatus, errorThrown) {
+            // console.log(jqXHR);
+            // console.log(textStatus);
+            // console.log(errorThrown);
+            responseObj = JSON.parse(jqXHR.responseText);
+            // console.log(responseObj._issues);
+            for (var k in responseObj._issues) {
+                $(`#${k}`).addClass("is-invalid");
+            }
+            $("#error").html(responseObj._error.message);
+            // console.log(responseObj._error.message);
+
+        },
+        dataType: "json"
+    });
+}
+</script>
