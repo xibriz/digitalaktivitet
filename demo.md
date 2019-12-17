@@ -3,7 +3,7 @@ title: Demo
 ---
 # Demo
 
-Dersom du er en av de som liker å bare hoppe i det og teste systemet så har vi satt opp en demoklubb til deg.
+Dersom du er en av de som liker å teste systemet først har vi laget en demo-portal der du kan herje fritt.
 
 Brukernavn: admin  
 Passord: demo
