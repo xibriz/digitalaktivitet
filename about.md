@@ -3,7 +3,7 @@ title: Om oss
 ---
 #### Digital Aktivitet er startet av Ruben Andreassen og Tor-Ivar Kristoffersen
 
-Vi så behovet for et bedre system for booking av skytetider, samt en utbedring av aktivitetsloggen. Denne noe krøllete papirlappen som til tider lå nederst i sekken fikk desverre hard medfart. Det syntes vi ikke hørte helt hjemme i det 21 århundre. Etter en del samtaler om temaet med Tromsø Pistolklubb og Troms Politidisktrikt laget vi en Digital Aktivitetslogg for Tromsø Pistolklubb.
+Vi så behovet for et bedre system for booking av skytetider, samt en utbedring av aktivitetsloggen. Denne noe krøllete papirlappen som til tider lå nederst i sekken fikk dessverre hard medfart. Det syntes vi ikke hørte helt hjemme i det 21 århundre. Etter en del samtaler om temaet med Tromsø Pistolklubb og Troms Politidisktrikt laget vi en Digital Aktivitetslogg for Tromsø Pistolklubb.
 
 Klubben har brukt systemet i over ett år å uttalelsene fra klubbens styre og medlemmer er meget positive. Vi ser også at aktiviteten i klubben har økt siden det er enklere å ta en drop-in time. I tillegg har det tatt bort mye administrasjon fra enkelte av klubbens ledere som før brukte mye tid på blandt annet turnus og oppfølging av dette.
 
