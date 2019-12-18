@@ -20,7 +20,7 @@ Ta kontakt med oss for en demo om det er ønskelig!
 
 Vi stiller på Skyttermessen 2020, her vil vi kjøre demoer og det vil være mulighet til å prøve ut de forskjellige touch-skjermene vi bruker som "Fellesskjermer" inne på klubben og på skytebanen.
 
-<div class="text-center mt-2">
+<div class="text-center mt-2 mb-2">
     <a target="_blank" href="https://www.skyting.no/forside/events/skyttermessen-2020">
         <img class="img-fluid" src="/assets/img/skyttermessen_2020.jpg" alt="Skyttermessen2020" />
     </a>
