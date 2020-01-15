@@ -6,7 +6,7 @@ title: Hjem
 
 Har du noen gang tenkt over hvordan du vil registrere _din aktivitet_?
 
-Digital Aktivitet er ett aktivitetsregister for skyttere i Norge. I tillegg har systemet en mengder med tillegsfunksjoner som booking av skytetid på baner, administrasjon av skyteledere, stevne-registrering, integrasjon med kortsystemer og mye mye mer.
+Digital Aktivitet er ett aktivitetsregister for skyttere i Norge. I tillegg har systemet en mengder med tilleggsfunksjoner som booking av skytetid på baner, administrasjon av skyteledere, stevne-registrering, integrasjon med kortsystemer og mye mye mer.
 
 Systemet er web-basert slik at ingen installasjon kreves lokalt. Det er heller ikke noen oppgraderinger som må gjøres av dere, nyeste versjon er alltid i bruk. Alt ligger på nett, og alt er selvsagt tilgjengelig for deres medlemmer uansett hvor de befinner seg.
 
