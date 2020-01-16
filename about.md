@@ -13,4 +13,4 @@ Tor-Ivar er Digital Arkitekt til daglig og jobber med nettverk og datasentre. Ha
 
 
 
-Ta kontakt med oss på tik at mcivar.net eller mobil 99390202
+Ta kontakt med oss på e-post **tik@digitalaktivitet.no** eller mobil **99390202**
