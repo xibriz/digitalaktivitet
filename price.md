@@ -12,7 +12,7 @@ Det blir {{ site.data.price[0].NOK | times: site.data.price[0].members | times: 
 
 Vi er så sikre på produktet at første kvartal av 2020 vil være gratis!
 
-Fakturering vil skje første uke i hvert kvartal for innværende kvartal.
+Fakturering vil skje første uke i hvert kvartal for innværende kvartal. Alle priser er eks mva.
 
 ### Priskalkulator
 
