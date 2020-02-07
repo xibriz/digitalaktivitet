@@ -9,8 +9,14 @@ Her vil vi publisere endringer på systemet fortløpende.
 - Lage ett "Oppmøtesystem" som fungerer med kort (konfigurerbart)
 - Mulighet for å legge inn klubblogo
 
+### 07.02.2020
+
+- Fikset problemet med at ukesvisningen ikke fungerte under enkelte omstendigheter
+
 ### 06.02.2020
 
+- Fikset probmemet med at man kunne attestere opp til 24 timer frem i tid
+- Satt standardvisning fra alle til dagens dato for Attester - Reservasjoner
 - Åpne opp for at brukere registrerer seg selv (konfigurerbart)
 - Lage rapport for aktiviteter (etc. hvor mange dugnadstimer er gjort i klubben?)
 
