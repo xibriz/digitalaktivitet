@@ -4,10 +4,13 @@ Her vil vi publisere endringer på systemet fortløpende.
 
 ## Hva kommer (tilfeldig rekkefølge)
 
-- Egenskap for å kreve sikkerhetskurs på aktivitet
 - Forbedre administrasjon av Tidspunkter
 - Lage ett "Oppmøtesystem" som fungerer med kort (konfigurerbart)
 - Mulighet for å legge inn klubblogo
+
+### 08.02.2020
+
+- Mulighet for å kreve sikkerhetskurs på reservasjoner (Tidspunkter)
 
 ### 07.02.2020
 
