@@ -17,9 +17,10 @@ Fakturering vil skje første uke i hvert kvartal for innværende kvartal. Alle p
 ### Priskalkulator
 
 <form class="form-inline" action="#">
-    <input type="number" class="form-control mb-2 mr-sm-2 col-1" id="numberOfActiveMembers" value="{{ site.data.price[0].members }}" onchange="calculatePrice(this);" onblur="calculatePrice(this);">
-    <label for="numberOfActiveMembers">aktive medlemmer koster bare</label>&nbsp;
-    <span id="price" style="font-weight: bold">{{ site.data.price[0].NOK | times: site.data.price[0].members }}</span>&nbsp;kr per måned.
+    <input type="number" style="min-width: 70px;" class="form-control mb-2 mr-sm-2 col-1 mr-2" id="numberOfActiveMembers" value="{{ site.data.price[0].members }}" onchange="calculatePrice(this);" onblur="calculatePrice(this);">
+    aktive medlemmer koster bare&nbsp;
+    <span id="price" style="font-weight: bold">{{ site.data.price[0].NOK | times: site.data.price[0].members }}</span>
+    &nbsp;kr per måned.
 </form>
 <script type="text/javascript">
 var price = {{ site.data.price[0].NOK }};
