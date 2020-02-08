@@ -1,12 +1,31 @@
-<nav class="navbar navbar-expand navbar-dark bg-primary">
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
   <div class="container">
     <a class="navbar-brand" href="/">Digital Aktivitet</a>
-    <ul class="navbar-nav mr-auto">
-      {% for item in site.data.navigation %}
-        <li class="nav-item {% if page.url == item.link %}active{% endif %}">
-          <a class="nav-link" href="{{ item.link }}">{{ item.name }} {% if page.url == item.link %}<span class="sr-only">(current)</span>{% endif %}</a>
-        </li>
-      {% endfor %}
-    </ul>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        {% for item in site.data.navigation %}
+          <li class="nav-item {% if page.url == item.link %}active{% endif %}">
+            <a class="nav-link" href="{{ item.link }}">{{ item.name }} {% if page.url == item.link %}<span class="sr-only">(current)</span>{% endif %}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
   </div>
 </nav>
+<script>
+  $(document).ready(function() {
+    $('.navbar-toggler').click(function() {
+      if ($('.navbar-collapse').hasClass('show')) {
+        $('.navbar-toggler').addClass('collapsed');
+        $('.navbar-collapse').removeClass('show');
+      } else {
+        $('.navbar-toggler').removeClass('collapsed');
+        $('.navbar-collapse').addClass('show');
+      }
+    });
+      
+  });
+</script>
