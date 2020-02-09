@@ -1,7 +1,6 @@
 ---
 title: Utstyrsliste
 ---
-###
 
 ## Utstyrsliste
 
@@ -33,7 +32,6 @@ Den minste utgaven vi hadde med besto av en 7" RPI skjerm
 
 Raspberry Pi Touch Screen 7"
 Varenummer: 888104 / Produktnr.: RASPBERRYPI-DISPLAY
-
 **MERK: Denne trenger et chassis, som komlpett ikke har. Men dette kan bestilles fra f.eks Dustin
 https://www.dustinhome.no/product/5010914818/touchscreen-case-for-raspberry-pi---black**
 
@@ -52,6 +50,23 @@ Vi anbefaler MIFARE varianten såfremst det ikke finnes andre grunner.
 
 Vi anbefaler og at det benyttes samme type kortleser på alle enhetene deres, da vi har sett at noen kortlesere
 ikke gir ut den samme texten på det samme kortet(og ikke alle er konfigurerbare til å gi samme streng)
+
+
+#### Oppsett av Raspbian
+
+Vi har brukt en standard installasjon av Rasbian på våre oppsett, med en modifikasjon for **kiosk** oppsett.
+
+Det finnes flere varianter for hvordan Kiosk modues settes opp, vi har forsøkt forskjellige varianter, men den enkleste er å følge denne guiden her
+**https://pimylifeup.com/raspberry-pi-kiosk/**
+
+Denne gjør det mulig å trykke ALT+F4 for å hoppe ut av Chromium slik at det er mulig å kjøre endringer på oppsettet, evt oppdateringer til Raspbian. Dersom en metode med LXDE f.eks benyttes er dette litt værre å få til,men samtidig er Kiosk modusen låst enda mer ned.
+
+f.eks denne guiden her
+**https://die-antwort.eu/techblog/2017-12-setup-raspberry-pi-for-kiosk-mode/**
+
+Denne er basert på Raspbian Stretch fra 2017, så noe tilpassning kan tilkomme.
+
+
 
 
 
