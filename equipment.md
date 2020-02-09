@@ -54,7 +54,7 @@ ikke gir ut den samme texten på det samme kortet(og ikke alle er konfigurerbare
 
 #### Oppsett av Raspbian
 
-Vi har brukt en standard installasjon av Rasbian på våre oppsett, med en modifikasjon for **kiosk** oppsett.
+Vi har brukt en standard installasjon av Raspbian på våre oppsett, med en modifikasjon for **kiosk** oppsett.
 
 Det finnes flere varianter for hvordan Kiosk modues settes opp, vi har forsøkt forskjellige varianter, men den enkleste er å følge denne guiden her
 **https://pimylifeup.com/raspberry-pi-kiosk/**
