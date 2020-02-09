@@ -1,14 +1,19 @@
-# Utstyrsliste
+---
+title: Utstyrsliste
+---
+###
+
+## Utstyrsliste
 
 
 For de av dere som traff oss på Skyttermessen 2020, så hadde vi med oss noen Touchskjermer,
 disse benyttes som fellesskjermer. Her kommer en liste over det utstyret vi hadde med oss slik at
 dere kan kjøpe dette selv eller noe tilsvarende.
 
-Fra Komplett.no
+Fra **Komplett.no**
 
 
-22" Touch Skjerm med RPi4
+#### 22" Touch Skjerm med RPi4
 
 Raspberry Pi 4 Model B 4GB Starter Kit
 Varenummer: 1136633 / Produktnr.: 3051887_KIT
@@ -21,19 +26,20 @@ HDMI male - mini HDMI male
 
 
 Ønskes det en billigere utgave, holder det med RPi3, men disse begynner å bli utsolgt. Det kan og tas en
-mindre skjerm om det er ønskelig, den samme skjermen finnes i en 16" utgave også.
+mindre skjerm om det er ønskelig, den samme skjermen finnes i en 16" utgave også. Merk at RPi 4 bruker Mini-HDMI mens RPi3 bruker vanlig HDMI kabel.
 
 
 Den minste utgaven vi hadde med besto av en 7" RPI skjerm
 
 Raspberry Pi Touch Screen 7"
 Varenummer: 888104 / Produktnr.: RASPBERRYPI-DISPLAY
-MERK: Denne trenger et chassis, som komlpett ikke har. Men dette kan bestilles fra f.eks Dustin
-https://www.dustinhome.no/product/5010914818/touchscreen-case-for-raspberry-pi---black
+
+**MERK: Denne trenger et chassis, som komlpett ikke har. Men dette kan bestilles fra f.eks Dustin
+https://www.dustinhome.no/product/5010914818/touchscreen-case-for-raspberry-pi---black**
 
 
 
-Kortlesere
+#### Kortlesere
 
 Når det kommer til kortlesere, kan det benyttes mange varianter.Vi har brukt en type vi har kjøpt på ebay.
 Denne finnes i 2 varianter, EM og Mifare. Forskjellen er bare om det er med eller uten kryptering, De aller 
