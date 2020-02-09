@@ -8,5 +8,7 @@
   link: /create_club.html
 - name: Om oss
   link: /about.html
+- name: Utstyrsliste
+  link: /equipment.html
 - name: Endringslogg
   link: /changelog.html
