@@ -4,12 +4,15 @@ Her vil vi publisere endringer på systemet fortløpende.
 
 ## Hva kommer (tilfeldig rekkefølge)
 
-- Forbedre administrasjon av Tidspunkter
 - Lage ett "Oppmøtesystem" som fungerer med kort (konfigurerbart)
 - Mulighet for å legge inn klubblogo
 - Bedre filtrering på type aktivitet i aktivitetsrapport (multiselect)
 - Filtrere på medlem i aktivitetsrapport
 - Filtrere på type aktivitet i aktivitetslogg (blandt annet for print)
+
+### 09.02.2020
+
+- Forbedre administrasjon av Tidspunkter
 
 ### 08.02.2020
 
