@@ -11,6 +11,7 @@ Her vil vi publisere endringer på systemet fortløpende.
 
 ### 12.02.2020
 
+- Oppdaget at nye klubber ikke får bruksanvisninger. Alle har nå bruksanvisningene.
 - Knapp for attestering kommer fram automatsk når tidspunkt for aktivitetstart har passert
 - Fikset feil som gjorde at kalendern ikke fungerte dersom man slettet en skytebane med reservasjoner
 - Fikset feil i skjuling av "Tidspunkter"
