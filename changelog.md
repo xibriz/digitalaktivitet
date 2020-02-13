@@ -9,6 +9,15 @@ Her vil vi publisere endringer på systemet fortløpende.
 - Filtrere på medlem i aktivitetsrapport
 - Filtrere på type aktivitet i aktivitetslogg (blandt annet for print)
 
+### 12.02.2020
+
+- Knapp for attestering kommer fram automatsk når tidspunkt for aktivitetstart har passert
+- Fikset feil som gjorde at kalendern ikke fungerte dersom man slettet en skytebane med reservasjoner
+- Fikset feil i skjuling av "Tidspunkter"
+- Personer som ikke har sikkerhetskurs blir nå vist med orange farge i kalenderen
+- Fikset feil som oppstod dersom man ikke la inn mobilnummer når man manuelt registerte medlemmer (mobil og medlemsnummer er ikke påkrevde felter)
+- Fikset oppdatering av "betalt-teller" når man filtrerte på roller
+
 ### 11.02.2020
 
 - Lage ett "Oppmøtesystem" som fungerer med kort
