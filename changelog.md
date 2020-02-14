@@ -8,6 +8,8 @@ Her vil vi publisere endringer på systemet fortløpende.
 - Bedre filtrering på type aktivitet i aktivitetsrapport (multiselect)
 - Filtrere på medlem i aktivitetsrapport
 - Filtrere på type aktivitet i aktivitetslogg (blandt annet for print)
+- Legge "Varighet"-egenskap til aktivitet slik at man kan velge om man vil ha fra-til eller kun dato og klokkeslett
+
 
 ### 14.02.2020
 
