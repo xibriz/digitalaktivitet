@@ -9,6 +9,12 @@ Her vil vi publisere endringer på systemet fortløpende.
 - Filtrere på medlem i aktivitetsrapport
 - Filtrere på type aktivitet i aktivitetslogg (blandt annet for print)
 
+### 14.02.2020
+
+- Sørget for at bare de som står som "Betalt" i NIF-importen kommer med
+- Fikset problem med til-dato i rapporten
+- Sørget for at NoShow og aktiviteter som ikke er attestert ikke kommer med i rapporten
+
 ### 12.02.2020
 
 - Oppdaget at nye klubber ikke får bruksanvisninger. Alle har nå bruksanvisningene.
