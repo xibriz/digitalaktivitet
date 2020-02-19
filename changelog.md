@@ -10,6 +10,9 @@ Her vil vi publisere endringer på systemet fortløpende.
 - Filtrere på type aktivitet i aktivitetslogg (blandt annet for print)
 - Legge "Varighet"-egenskap til aktivitet slik at man kan velge om man vil ha fra-til eller kun dato og klokkeslett
 
+### 19.02.2020
+
+- Gjort endringer som burde fikse alle problemer med visning i kalenderen (måned, uke, dag)
 
 ### 14.02.2020
 
