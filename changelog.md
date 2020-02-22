@@ -10,6 +10,17 @@ Her vil vi publisere endringer på systemet fortløpende.
 - Filtrere på type aktivitet i aktivitetslogg (blandt annet for print)
 - Legge "Varighet"-egenskap til aktivitet slik at man kan velge om man vil ha fra-til eller kun dato og klokkeslett
 
+### 22.02.2020
+
+- Fikset sortering på navn på fellesskjerm
+- Til-dato settes lik som fra-dato når man registrerer varighet
+- Flyttet nedtrekksmeny for roller pga. problem når bare en person var søkt opp
+- Lagt til mulighet for å aktivere/deaktivere NSF/DSSN
+- Skjule aktiviteter frem i tid når man går inn på Attester NSF/DSSN
+- Endret begrep "Skytebane" til "Bane/Gruppe"
+- Endret begrep "Skyteskive" til "Skive/Plass"
+- Lagt inn muligheten til å installere nettsiden som en app (Progressive Web App aka. PWA)
+
 ### 19.02.2020
 
 - Gjort endringer som burde fikse alle problemer med visning i kalenderen (måned, uke, dag)
