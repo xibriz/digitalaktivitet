@@ -5,10 +5,14 @@ Her vil vi publisere endringer på systemet fortløpende.
 ## Hva kommer (tilfeldig rekkefølge)
 
 - Mulighet for å legge inn klubblogo
-- Bedre filtrering på type aktivitet i aktivitetsrapport (multiselect)
-- Filtrere på medlem i aktivitetsrapport
 - Filtrere på type aktivitet i aktivitetslogg (blandt annet for print)
 - Legge "Varighet"-egenskap til aktivitet slik at man kan velge om man vil ha fra-til eller kun dato og klokkeslett
+
+### 23.02.2020
+
+- Lagt til multifilter på medlem i aktivitetsrapport
+- Lagt til multifilter på aktivitet i aktivitetsrapport
+- Lagt til mulighet for å laste ned aktivitetsrapport som CSV-fil for behandling i Excel eller lignende
 
 ### 22.02.2020
 
