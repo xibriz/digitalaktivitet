@@ -11,6 +11,7 @@ Her vil vi publisere endringer på systemet fortløpende.
 ### 25.02.2020
 
 - Hindret at brukere med rolle "Fellesbruker" kommer opp i listen for reservasjon på fellesskjerm
+- Fikset en feil i ICAL oppsettet som kræsjet kalenderen
 
 ### 24.02.2020
 
