@@ -8,6 +8,10 @@ Her vil vi publisere endringer på systemet fortløpende.
 - Filtrere på type aktivitet i aktivitetslogg (blandt annet for print)
 - Legge "Varighet"-egenskap til aktivitet slik at man kan velge om man vil ha fra-til eller kun dato og klokkeslett
 
+### 25.02.2020
+
+- Hindret at brukere med rolle "Fellesbruker" kommer opp i listen for reservasjon på fellesskjerm
+
 ### 24.02.2020
 
 - Lagt til knapp for Reservasjon på Min Side som linker til kalenderen
