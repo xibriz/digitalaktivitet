@@ -8,6 +8,13 @@ Her vil vi publisere endringer på systemet fortløpende.
 - Filtrere på type aktivitet i aktivitetslogg (blandt annet for print)
 - Legge "Varighet"-egenskap til aktivitet slik at man kan velge om man vil ha fra-til eller kun dato og klokkeslett
 
+### 26.02.2020
+
+- Fikset problem i "Sett opp skyteldere", dersom "Fra dato" ble satt på en dato der det er satt opp skyteledere så kom det ikke frem
+- Fjernet muligheten for å selv slette seg fra skytelederturnusen uten å bytte bort vakten
+- Lagt til ikon for apple-enheter
+- Sortering av aktivitetstyper
+
 ### 25.02.2020
 
 - Hindret at brukere med rolle "Fellesbruker" kommer opp i listen for reservasjon på fellesskjerm
