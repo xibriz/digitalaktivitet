@@ -2,11 +2,11 @@
 
 Her vil vi publisere endringer på systemet fortløpende.
 
-## Hva kommer (tilfeldig rekkefølge)
+### 27.02.2020
 
-- Mulighet for å legge inn klubblogo
+- Lagt til egenskap "Overfør varighet på reservasjoner til loggen" som angit om varigheten på en reservasjon skal tas med i loggen. Uten denne egenskapen aktivert tas kun start-tidspunkt med i loggen.
 - Filtrere på type aktivitet i aktivitetslogg (blandt annet for print)
-- Legge "Varighet"-egenskap til aktivitet slik at man kan velge om man vil ha fra-til eller kun dato og klokkeslett
+- Mulighet for å legge inn klubblogo og klubbnavn
 
 ### 26.02.2020
 
