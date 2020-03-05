@@ -2,6 +2,13 @@
 
 Her vil vi publisere endringer på systemet fortløpende.
 
+### 05.03.2020
+
+- Fikset feil som gjorde at man ikke fikk logget inn dersom e-posten ble registrert med store bokstaver
+- Fikset feil som gjorde at man ikke fikk resatt passordet dersom e-posten ble registrert med store bokstaver
+- Fikset feil som gjorde at man ikke fikk slettet kontoer som manglet navn
+
+
 ### 27.02.2020
 
 - Lagt til egenskap "Overfør varighet på reservasjoner til loggen" som angit om varigheten på en reservasjon skal tas med i loggen. Uten denne egenskapen aktivert tas kun start-tidspunkt med i loggen.
