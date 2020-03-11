@@ -2,6 +2,13 @@
 
 Her vil vi publisere endringer på systemet fortløpende.
 
+### 11.03.2020
+
+- Dersom man får feilmeldingen "Ikke innlogget" blir man nå sendt til påloggingsiden automatisk
+- Forbedret feilmeldingen dersom en bruker ikke har e-postadresse ved import fra NIF
+- Fikset feil som gjorde at man ikke fikk valgt tidspunkt med manuell registrering av personer i skyteledermodus
+- Lagt til knapp for å komme seg til "Hovedskjerm" i Kioskmodus
+
 ### 05.03.2020
 
 - Fikset feil som gjorde at man ikke fikk logget inn dersom e-posten ble registrert med store bokstaver
