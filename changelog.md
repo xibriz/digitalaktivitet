@@ -2,6 +2,10 @@
 
 Her vil vi publisere endringer på systemet fortløpende.
 
+### 13.03.2020
+
+- Forbedret import-rutinen, hvordan Excel-arket fra NIF håndteres
+
 ### 11.03.2020
 
 - Dersom man får feilmeldingen "Ikke innlogget" blir man nå sendt til påloggingsiden automatisk
