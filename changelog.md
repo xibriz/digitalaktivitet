@@ -2,6 +2,14 @@
 
 Her vil vi publisere endringer på systemet fortløpende.
 
+### 27.03.2020
+
+- Laget Kalendermeldinger for å legge ekstra informasjon til kalenderen uten at det blander seg med reservasjonsmulighetene.
+
+### 26.03.2020
+
+- Lagt til venteliste. Når en event er fullbooket kan man sette seg på venteliste og få pushvarsel eller bli automatisk reservert hvis det blir avbookinger.
+
 ### 13.03.2020
 
 - Forbedret import-rutinen, hvordan Excel-arket fra NIF håndteres
