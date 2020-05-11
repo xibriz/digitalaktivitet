@@ -2,6 +2,14 @@
 
 Her vil vi publisere endringer på systemet fortløpende.
 
+### 11.05.2020
+
+- Fikset bug når man går inn i touchmodus og filtrerer navn på bokstav
+
+### 01.05.2020
+
+- Flyttet til ny server
+
 ### 27.03.2020
 
 - Laget Kalendermeldinger for å legge ekstra informasjon til kalenderen uten at det blander seg med reservasjonsmulighetene.
