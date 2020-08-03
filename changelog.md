@@ -2,6 +2,14 @@
 
 Her vil vi publisere endringer på systemet fortløpende.
 
+### 03.08.2020
+
+- Lagt til lokasjon i skytelderkalenderen
+- Fikset bug som gjorde at skytelederkalenderen ikke fungerte på iPhone
+- Nettleseren husker nå valget på checkbokser
+- Gjort det mulig å endre på "Reserverbar" og "Krever sikkerhetskurs"
+- Fikset bug i sortering på Plasser/skiver
+
 ### 11.05.2020
 
 - Fikset bug når man går inn i touchmodus og filtrerer navn på bokstav
